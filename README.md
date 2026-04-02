@@ -7,7 +7,7 @@ This repository contains the code for the capstone project title **Model-based E
 ## Running the project from a Conda environment
 
 ```bash
-conda create -n capstone_env python=3.11 -y
+conda create -n capstone_env python=3.11
 conda activate capstone_env
 pip install -r requirements.txt
 ```
